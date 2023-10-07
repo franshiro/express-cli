@@ -1,0 +1,25 @@
+{
+  "name": "franshiro-express-cli",
+  "version": "1.7.0",
+  "description": "cli for generate express template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "express-template": "./index.js"
+  },
+  "keywords": [
+    "express",
+    "franshiro",
+    "express-cli"
+  ],
+  "author": "franshiromedia",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.11"
+  },
+  "type": "module"
+}
