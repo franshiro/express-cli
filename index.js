@@ -5,7 +5,6 @@ import path from "path";
 import chalk from "chalk";
 import boxen from "boxen";
 
-// import createProject from "./lib/create-new-project";
 import createProject from "franshiro-express-cli/lib/create-new-project/index.js";
 import newModule from "franshiro-express-cli/lib/new-module/index.js";
 
